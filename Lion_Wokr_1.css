@@ -2,8 +2,9 @@ body {
     position: relative;
     width: 1440px;
     height: 1024px;
-
     background: #8D8D8D;
+    font-family: 'Hanken Grotesk';
+    font-style: italic;
 }
 
 .Rect1 { 
@@ -79,11 +80,13 @@ body {
     position: absolute;
     width: 143px;
     height: 28px;
-    left: 157px;
+    left: 155px;
     top: 20px;
     font-weight: 600;
     font-size: 22px;
     line-height: 27px;
+    font-family: 'Hanken Grotesk';
+    font-style: italic;
 
     color: rgba(255, 255, 255, 0.5);
     
@@ -94,7 +97,8 @@ body {
     height: 62px;
     left: 70px;
     top: -10px;
-
+    font-family: 'Hanken Grotesk';
+    font-style: italic;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -106,6 +110,8 @@ body {
 .Circle1 > p:nth-child(2) {
     position: absolute;
     width: 62px;
+    font-family: 'Hanken Grotesk';
+    font-style: italic;
     height: 22px;
     left: 75px;
     top: 110px;
@@ -138,7 +144,8 @@ body {
     width:245px;
     height:72px;
     left:-20px;
-    
+    font-family: 'Hanken Grotesk';
+    font-style: italic;
     top:270px;
     font-size:18px;
     font-weight:400;
@@ -183,7 +190,7 @@ body {
     font-weight: 600;
     font-size: 18px;
     line-height: 22px;
-
+    font-family: "Hanken Grotesk";
     color: rgba(0, 0, 0, 0.5);
 }
 
